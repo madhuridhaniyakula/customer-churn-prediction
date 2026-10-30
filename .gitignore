@@ -1,0 +1,21 @@
+
+# Python virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Dataset files
+data/*.csv
+
+# Temporary files
+*.log
+.DS_Store
+
+# Secrets
+.env
+
+# Streamlit
+.streamlit/secrets.toml
